@@ -5,7 +5,7 @@
 
 .mytable-header-cell{
     display:table-cell;
-    border-bottom: 1px;
+    border-bottom: 2px;
     border-bottom-style: solid;
     border-bottom-color:gray;
 
